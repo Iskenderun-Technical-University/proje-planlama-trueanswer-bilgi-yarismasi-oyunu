@@ -6,7 +6,7 @@
 - [ ]  5. Google Mobile Ads(Reklam Bağlantısı) Oluşturulması (*Doğuhan Arılık*) @doguarilik 
 
 
-                             Oyun Tasarımını Oluşturma (Ziya Talha Karaca) @talhakaracaa 
+                             Oyun Tasarımını Oluşturma (Ziya Talha Karaca) @talhakaracaa     
                                      
 - [ ] 1. Tasarımın planlanması  (14.04.2022)
      - [ ] 1.1 Anasayfa Ekranı (06.04.2022)
