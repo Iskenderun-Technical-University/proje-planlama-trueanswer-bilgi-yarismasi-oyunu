@@ -9,7 +9,7 @@
                              Oyun Tasarımını Oluşturma (Ziya Talha Karaca) @talhakaracaa     
                                      
 - [ ] 1. Tasarımın planlanması  (14.04.2022)
-     - [ ] 1.1 Anasayfa Ekranı (06.04.2022)
+     - [x] 1.1 Anasayfa Ekranı (06.04.2022)
      - [ ] 1.2 Oyun Ekranı (08.04.2022)
      - [ ] 1.3 Ayarlar Ekranı (10.04.2022)
      - [ ] 1.4 Mağaza Ekranı (12.04.2022)
