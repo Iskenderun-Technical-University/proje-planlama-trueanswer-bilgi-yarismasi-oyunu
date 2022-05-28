@@ -2,7 +2,7 @@
 - [x] 1. Oyun Tasarımını Oluşturma (*Ziya Talha Karaca*) @talhakaracaa 
 - [x] 2. Oyun İçi Soruların Hazırlanması(*Hüseyin Emre Akpınar*) @emre0146 
 - [ ] 3. Projenin Kodlanması (*Doğuhan Arılık* , *Ziya Talha Karaca*  ,  *Hüseyin Emre Akpınar*) @doguarilik @talhakaracaa  @emre0146 
-- [ ]  4. Google Firebase  Authentication Oluşturulması (*Doğuhan Arılık*) @doguarilik 
+- [x]  4. Google Firebase  Authentication Oluşturulması (*Doğuhan Arılık*) @doguarilik 
 - [ ]  5. Google Mobile Ads(Reklam Bağlantısı) Oluşturulması (*Doğuhan Arılık*) @doguarilik 
 
 
@@ -52,11 +52,11 @@
                    Google Firebase Authentication Bağlantılarının Yapılması (Doğuhan ARILIK) @doguarilik
                                                           
                                                           
-- [ ] 1. Bir Firebase Projesini Oluşturma (23.05.2022)
-- [ ] 2. Firebase'te Uygulamayı Kaydetme (Firebase Üzerinden) (23.05.2022)
-- [ ] 3. Firebase Yapılandırma Dosyalaarı Ekleme (Unity Üzerinden) (23.05.2022)
-- [ ] 4. Firebase Unity SDK'larını Ekleme (23.05.2022)
-- [ ] 5. Google Play Hizmetleri Sürüm Gereksinimlerini Onaylama (23.05.2022)
+- [x] 1. Bir Firebase Projesini Oluşturma (23.05.2022)
+- [x] 2. Firebase'te Uygulamayı Kaydetme (Firebase Üzerinden) (23.05.2022)
+- [x] 3. Firebase Yapılandırma Dosyalaarı Ekleme (Unity Üzerinden) (23.05.2022)
+- [x] 4. Firebase Unity SDK'larını Ekleme (23.05.2022)
+- [x] 5. Google Play Hizmetleri Sürüm Gereksinimlerini Onaylama (23.05.2022)
 
 
 
