@@ -68,4 +68,3 @@
 - [x] 3. Mobil Reklamlar SDK'lerini Ekleme (25.05.2022)
 - [x] 4. Admob Uygulama Kimliğini Belirleme (25.05.2022)
 - [x] 5. Mobil Reklam SDK'sini Başlatma (25.05.2022)
-
