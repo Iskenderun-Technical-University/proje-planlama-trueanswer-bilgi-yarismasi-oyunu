@@ -1,9 +1,9 @@
                                                 Görev Listesi
 - [x] 1. Oyun Tasarımını Oluşturma (*Ziya Talha Karaca*) @talhakaracaa 
 - [x] 2. Oyun İçi Soruların Hazırlanması(*Hüseyin Emre Akpınar*) @emre0146 
-- [ ] 3. Projenin Kodlanması (*Doğuhan Arılık* , *Ziya Talha Karaca*  ,  *Hüseyin Emre Akpınar*) @doguarilik @talhakaracaa  @emre0146 
+- [x] 3. Projenin Kodlanması (*Doğuhan Arılık* , *Ziya Talha Karaca*  ,  *Hüseyin Emre Akpınar*) @doguarilik @talhakaracaa  @emre0146 
 - [x]  4. Google Firebase  Authentication Oluşturulması (*Doğuhan Arılık*) @doguarilik 
-- [ ]  5. Google Mobile Ads(Reklam Bağlantısı) Oluşturulması (*Doğuhan Arılık*) @doguarilik 
+- [x]  5. Google Mobile Ads(Reklam Bağlantısı) Oluşturulması (*Doğuhan Arılık*) @doguarilik 
 
 
                              Oyun Tasarımını Oluşturma (Ziya Talha Karaca) @talhakaracaa     
@@ -63,9 +63,9 @@
                        Google Mobile Ads Bağlantılarının Yapılması (Doğuhan ARILIK) @doguarilik
                                                        
                                                        
-- [ ] 1. Admob Hesabı Açma (25.05.2022)
-- [ ] 2. Mboile Ads Unity Eklentisini İçe Aktarma (25.05.2022)
-- [ ] 3. Mobil Reklamlar SDK'lerini Ekleme (25.05.2022)
-- [ ] 4. Admob Uygulama Kimliğini Belirleme (25.05.2022)
-- [ ] 5. Mobil Reklam SDK'sini Başlatma (25.05.2022)
+- [x] 1. Admob Hesabı Açma (25.05.2022)
+- [x] 2. Mboile Ads Unity Eklentisini İçe Aktarma (25.05.2022)
+- [x] 3. Mobil Reklamlar SDK'lerini Ekleme (25.05.2022)
+- [x] 4. Admob Uygulama Kimliğini Belirleme (25.05.2022)
+- [x] 5. Mobil Reklam SDK'sini Başlatma (25.05.2022)
 
